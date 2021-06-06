@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-amp-subnav",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "1.14.0",
+    "@nuxtjs/amp": "0.5.4",
+    "nuxt": "^2.14.5"
+  },
+  "keywords": [],
+  "description": ""
+}
